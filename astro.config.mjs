@@ -5,7 +5,7 @@ import compress from "astro-compress";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://imm-estepario.github.io',
-  base: 'mv-smart',
+  base: '/',
 
   integrations: [tailwind(), compress(),]
 });
