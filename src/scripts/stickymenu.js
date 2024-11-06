@@ -16,9 +16,9 @@ document.addEventListener('DOMContentLoaded', function () {
     if(logo.length) {
       // === logo change
       if (ud_header.classList.contains('sticky-header')) {
-        document.querySelector(".header-logo").src = '/assets/logo/logo.svg';
+        document.querySelector(".header-logo").src = '/assets/logo/smart.svg';
       } else {
-        document.querySelector('.header-logo').src = '/assets/logo/logo-white.svg';
+        document.querySelector('.header-logo').src = '/assets/logo/smart.svg';
       }
     }
 
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (logo.length) {
         // === logo change
         if (ud_header.classList.contains('sticky-header')) {
-          document.querySelector('.header-logo').src = '/assets/logo/logo-white.svg';
+          document.querySelector('.header-logo').src = '/assets/logo/smart.svg';
         } 
       }
     }
