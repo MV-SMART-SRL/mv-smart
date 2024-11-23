@@ -15,7 +15,7 @@ Moreover, it features a functional blog system, powered by Markdown, providing e
 
 ### ✅ Astro + Tailwind CSS Starter
 Crafted using Tailwind CSS with TailGrids components, this high-quality free Astro + Tailwind CSS starter offers unparalleled flexibility. If you're on the lookout for the perfect choice to kickstart your next venture, look no further than Play Astro!
-
+  
 ### 🚀 Installation and Deployment Instructions
 
 All commands are run from the root of the project, from a terminal:
